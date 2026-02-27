@@ -33,7 +33,7 @@ Designed to simulate real-world fintech reporting for leadership and risk teams.
 
 
 ## Live Dashboard:
- [View Interactive Dashboard](Fintech)
+ [View Interactive Dashboard](https://docs.google.com/spreadsheets/d/12k6PhDHuTGncTIRzrW9_myoibDkM1OVsHNvmYKUfBHA/edit?usp=sharing)
 
 
 # 🖥️ Dashboard 1: Executive Dashboard
